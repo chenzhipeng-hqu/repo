@@ -2,6 +2,7 @@
 
 ## repo default configuration
 ##
+#REPO_URL='git://codeaurora.org/tools/repo.git'
 REPO_URL = 'https://github.com/czp874298842/repo.git'
 REPO_REV = 'master'
 
